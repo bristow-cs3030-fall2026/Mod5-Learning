@@ -1,0 +1,10 @@
+https://claude.ai/share/a1ec83c8-b74e-49ce-bb81-21aa0ff9351c
+
+What did you build, and which AI tool did you use?
+I made a simple tic-tac-toe game using Claude.
+
+What was one problem you hit, and how did you and the AI fix it?
+The game wasn't ending when a draw was the only thing that could legally happen, so I asked the AI to make draws happens whenever they were guaranteed.
+
+What did you learn about how networking works?
+I learned the importance of using servers to regulate connections.
